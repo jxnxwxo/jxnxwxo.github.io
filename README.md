@@ -1,1 +1,1 @@
-# Momentum-clone
+# 바닐라JS 챌린지 마지막 v1.0
